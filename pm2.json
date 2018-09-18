@@ -1,0 +1,10 @@
+{
+    "name": "cool",
+    "script": "start.py",
+    "args": "8777",
+    "exec_mode": "fork",
+    "cwd": "/app/src/cool/",
+    "one_launch_only": "true",
+    "max_memory_restart": "60M",
+    "interpreter": "/usr/bin/python"
+}
